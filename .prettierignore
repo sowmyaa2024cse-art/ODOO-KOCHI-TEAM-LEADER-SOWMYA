@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+web/dist
+package-lock.json
+.claude
+Dockerfile
+web/Dockerfile
